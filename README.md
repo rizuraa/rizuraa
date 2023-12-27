@@ -33,6 +33,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizuraa&show_icons=true&locale=en&layout=compact" alt="rizuraa" /></p>
+<br/>
+<br/>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizuraa" alt="rizuraa" /></p>
 <!--
 **rizuraa/rizuraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
